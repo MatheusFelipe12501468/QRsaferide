@@ -3,7 +3,7 @@
    Cole aqui a Access Key que o Web3Forms enviou para o seu e-mail
    (pegue em https://web3forms.com).
    ========================================================= */
-const WEB3FORMS_KEY = 'COLE_AQUI_SUA_ACCESS_KEY';
+const WEB3FORMS_KEY = 8e42ba1f-05da-4710-961b-4bf8ea86949f;
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 const root = document.documentElement;
